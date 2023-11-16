@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Nunito+Sans:ital,opsz,wght@0,6..12,200;0,6..12,300;0,6..12,400;0,6..12,500;0,6..12,600;0,6..12,700;0,6..12,800;0,6..12,900;1,6..12,200&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.shopinfo-banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(30, 30, 30);
+    height: 50vh;
+
+}
+
+.shopinfo-banner .shopBx {
+
+    background-color: rgb(30, 30, 30);
+    text-align: center;
+    padding: 30px 10px;
+    margin: 20px;
+    width: 20%;
+    box-shadow: 0px 2px 12px 2px rgb(0, 0, 0, 0.3);
+    color: white;
+
+}
+
+.shopBx h1 {
+    font-size: 2.8rem;
+    margin-bottom: 10px;
+    font-family: 'Nunito Sans', sans-serif;
+
+}
+
+.shopBx p {
+    font-size: 20px;
+    color: rgb(102, 102, 102);
+    font-family: 'Nunito Sans', sans-serif;
+    font-style: italic;
+}
+
+
+@media (max-width:1060px) {
+    .shopinfo-banner .shopBx {
+
+        padding: 10px;
+        margin: 10px;
+        width: 22%;
+
+    }
+
+    .shopBx p {
+        font-size: 18px;
+    }
+}
+
+@media (max-width:850px) {
+    .shopinfo-banner {
+        display: flex;
+        flex-wrap: wrap;
+        height: auto;
+        padding: 40px 1px;
+
+
+    }
+
+    .shopinfo-banner .shopBx {
+
+        background-color: rgb(30, 30, 30);
+        text-align: center;
+        padding: 30px 10px;
+        margin: 20px;
+        width: 40%;
+        box-shadow: 0px 2px 12px 2px rgb(0, 0, 0, 0.3);
+        color: white;
+
+    }
+}
+
+
+@media (max-width:600px) {
+    
+    .shopBx h1 {
+        font-size: 2rem;
+        margin-bottom: 10px;
+        font-family: 'Nunito Sans', sans-serif;
+        
+    }
+    .shopBx p {
+        font-size: 1rem;
+        margin-bottom: 10px;
+        font-family: 'Nunito Sans', sans-serif;
+        
+    }
+}
+
+
+
+@media (max-width:500px){
+    .shopinfo-banner {
+        display: flex;
+        flex-direction: column;
+    }
+    .shopinfo-banner .shopBx {
+
+        background-color: rgb(30, 30, 30);
+        text-align: center;
+        padding: 30px 10px;
+        margin: 20px;
+        width: 85%;
+ 
+
+    }
+}
