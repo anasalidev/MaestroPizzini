@@ -1,7 +1,13 @@
 {
   "files": {
     "main.css": "/MaestroPizzini/static/css/main.efedbd57.css",
-    "main.js": "/MaestroPizzini/static/js/main.9adedd9f.js",
+    "main.js": "/MaestroPizzini/static/js/main.9a777157.js",
+    "static/media/pizza6.png": "/MaestroPizzini/static/media/pizza6.6f6d5bf8d1f13d82da29.png",
+    "static/media/pizza3.png": "/MaestroPizzini/static/media/pizza3.85dc67ecc96ab0d45b6b.png",
+    "static/media/pizza2.png": "/MaestroPizzini/static/media/pizza2.c40182b3fc5895909cb8.png",
+    "static/media/pizza5.png": "/MaestroPizzini/static/media/pizza5.cb67f4d4bb8205b49bc0.png",
+    "static/media/pizza1.png": "/MaestroPizzini/static/media/pizza1.a84ae921d93e5ae87022.png",
+    "static/media/pizza4.png": "/MaestroPizzini/static/media/pizza4.f03c9d6b803eafc77594.png",
     "static/media/pizza guy.png": "/MaestroPizzini/static/media/pizza guy.26cb20c8f413e2824e0c.png",
     "static/media/maestropizzini-pizzamenu-bg.jpg": "/MaestroPizzini/static/media/maestropizzini-pizzamenu-bg.ce44b7884e2ff67472f8.jpg",
     "static/media/secbg (4).jpg": "/MaestroPizzini/static/media/secbg (4).30811c43cd3c2bcbb3ed.jpg",
@@ -10,10 +16,10 @@
     "static/media/blackbg (6).jpg": "/MaestroPizzini/static/media/blackbg (6).b1278d25e4a13f5af277.jpg",
     "index.html": "/MaestroPizzini/index.html",
     "main.efedbd57.css.map": "/MaestroPizzini/static/css/main.efedbd57.css.map",
-    "main.9adedd9f.js.map": "/MaestroPizzini/static/js/main.9adedd9f.js.map"
+    "main.9a777157.js.map": "/MaestroPizzini/static/js/main.9a777157.js.map"
   },
   "entrypoints": [
     "static/css/main.efedbd57.css",
-    "static/js/main.9adedd9f.js"
+    "static/js/main.9a777157.js"
   ]
 }
