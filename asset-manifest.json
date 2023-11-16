@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MaestroPizzini/static/css/main.efedbd57.css",
-    "main.js": "/MaestroPizzini/static/js/main.45381086.js",
+    "main.js": "/MaestroPizzini/static/js/main.2acdf2eb.js",
     "static/media/pizza guy.png": "/MaestroPizzini/static/media/pizza guy.26cb20c8f413e2824e0c.png",
     "static/media/maestropizzini-pizzamenu-bg.jpg": "/MaestroPizzini/static/media/maestropizzini-pizzamenu-bg.ce44b7884e2ff67472f8.jpg",
     "static/media/secbg (4).jpg": "/MaestroPizzini/static/media/secbg (4).30811c43cd3c2bcbb3ed.jpg",
@@ -10,10 +10,10 @@
     "static/media/blackbg (6).jpg": "/MaestroPizzini/static/media/blackbg (6).b1278d25e4a13f5af277.jpg",
     "index.html": "/MaestroPizzini/index.html",
     "main.efedbd57.css.map": "/MaestroPizzini/static/css/main.efedbd57.css.map",
-    "main.45381086.js.map": "/MaestroPizzini/static/js/main.45381086.js.map"
+    "main.2acdf2eb.js.map": "/MaestroPizzini/static/js/main.2acdf2eb.js.map"
   },
   "entrypoints": [
     "static/css/main.efedbd57.css",
-    "static/js/main.45381086.js"
+    "static/js/main.2acdf2eb.js"
   ]
 }
