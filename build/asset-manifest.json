@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MaestroPizzini/static/css/main.efedbd57.css",
-    "main.js": "/MaestroPizzini/static/js/main.6de28f15.js",
+    "main.css": "/MaestroPizzini/static/css/main.eac0bdbe.css",
+    "main.js": "/MaestroPizzini/static/js/main.3f02818c.js",
     "static/media/pizza6.png": "/MaestroPizzini/static/media/pizza6.6f6d5bf8d1f13d82da29.png",
     "static/media/pizza3.png": "/MaestroPizzini/static/media/pizza3.85dc67ecc96ab0d45b6b.png",
     "static/media/pizza2.png": "/MaestroPizzini/static/media/pizza2.c40182b3fc5895909cb8.png",
@@ -15,11 +15,11 @@
     "static/media/bg (1).jpg": "/MaestroPizzini/static/media/bg (1).9de2b70f30636fa09e1b.jpg",
     "static/media/blackbg (6).jpg": "/MaestroPizzini/static/media/blackbg (6).b1278d25e4a13f5af277.jpg",
     "index.html": "/MaestroPizzini/index.html",
-    "main.efedbd57.css.map": "/MaestroPizzini/static/css/main.efedbd57.css.map",
-    "main.6de28f15.js.map": "/MaestroPizzini/static/js/main.6de28f15.js.map"
+    "main.eac0bdbe.css.map": "/MaestroPizzini/static/css/main.eac0bdbe.css.map",
+    "main.3f02818c.js.map": "/MaestroPizzini/static/js/main.3f02818c.js.map"
   },
   "entrypoints": [
-    "static/css/main.efedbd57.css",
-    "static/js/main.6de28f15.js"
+    "static/css/main.eac0bdbe.css",
+    "static/js/main.3f02818c.js"
   ]
 }

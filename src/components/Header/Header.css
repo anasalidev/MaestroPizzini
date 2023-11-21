@@ -152,4 +152,13 @@
     .banner-content .text {
         width: 90%;
     }
+    .bgImg {
+        top: 0%;
+        left: 0%;
+        width: 130%;
+        height: 100%;
+        position: fixed;
+        z-index: -1;
+    }
+    
 }
